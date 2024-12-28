@@ -1,0 +1,1 @@
+java -Xmx4024M -Xms4024M -jar purpur-1.20.4-2176.jar nogui
